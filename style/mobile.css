@@ -87,6 +87,11 @@ body {
     margin-left: -64px;
 }
 
+.email-button:hover {
+    background: linear-gradient(135deg, #F8BFBF 100%, #EE8B8B 0%);;
+    box-shadow: 0px 15px 20px rgba(198, 110, 110, 0.247569);;
+}
+
 .email-button img {
     width: 8.84px;
     height: 17.67px;

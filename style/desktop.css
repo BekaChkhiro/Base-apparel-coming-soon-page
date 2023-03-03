@@ -1,5 +1,12 @@
 @media screen and (min-width: 1440px) {
 
+	body {
+		background: url(/images/bg-pattern-desktop.svg), linear-gradient(#FFF1F1, );
+		background-repeat: no-repeat;
+		background-position: 0px;
+		background-size: 1230px 1200px;
+	}
+
 	.hero-mobile {
 		display: none;
 	}
@@ -78,9 +85,5 @@
 	.email-button {
 		padding: 18.5px 45.16px 18.83px 46px;
 		margin-left: -100px;
-	}
-
-	.email-button img {
-		width: ;
 	}
 }
