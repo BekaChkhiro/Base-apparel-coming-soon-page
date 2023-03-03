@@ -1,10 +1,10 @@
 @media screen and (min-width: 1440px) {
 
 	body {
-		background: url(/images/bg-pattern-desktop.svg), linear-gradient(#FFF1F1, );
+		background: url(/images/bg-pattern-desktop.svg), linear-gradient(221.42deg, #FFF1F1 2.6%, #FFFFFF 96.36%);
 		background-repeat: no-repeat;
 		background-position: 0px;
-		background-size: 1230px 1200px;
+		background-size: 1030px 1000px;
 	}
 
 	.hero-mobile {
@@ -86,4 +86,5 @@
 		padding: 18.5px 45.16px 18.83px 46px;
 		margin-left: -100px;
 	}
+
 }
